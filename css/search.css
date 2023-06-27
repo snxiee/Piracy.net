@@ -1,0 +1,14 @@
+/* Styles for the search results */
+#search-results {
+    margin-top: 20px;
+  }
+  
+  #search-results ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #search-results li {
+    margin-bottom: 10px;
+  }
+  
